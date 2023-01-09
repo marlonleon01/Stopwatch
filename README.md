@@ -1,7 +1,5 @@
 # Stopwatch
 
-https://img.shields.io/travis/marlonleon01/Stopwatch?style=flat-square
-
 ##Description
 
 -I created this to practice my javascript primarily since I had just begun learning it not too long before.
